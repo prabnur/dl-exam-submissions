@@ -23,4 +23,4 @@ You also need to register with Google for a `client id` and `secret`. Please put
 
 ## Acknowledgements
 
-Special Thanks to **Vladimir Kaukin** and the others for their contributions to (imap-tools)[https://github.com/ikvk/imap_tools] !
+Special Thanks to **Vladimir Kaukin** and the others for their contributions to [imap-tools](https://github.com/ikvk/imap_tools) !
