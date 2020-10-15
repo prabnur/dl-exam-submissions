@@ -18,8 +18,8 @@ You also need to register with Google for a `client id` and `secret`. Please put
 
 ### Helpful Links
 
-* (OAuth2.py Guide)[https://github.com/google/gmail-oauth2-tools/wiki/OAuth2DotPyRunThrough]
-* (Google's Oath2 guide)[https://developers.google.com/identity/protocols/oauth2]
+* [OAuth2.py Guide](https://github.com/google/gmail-oauth2-tools/wiki/OAuth2DotPyRunThrough)
+* [Google's Oath2 guide](https://developers.google.com/identity/protocols/oauth2)
 
 ## Acknowledgements
 
